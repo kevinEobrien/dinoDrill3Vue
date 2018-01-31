@@ -1,5 +1,8 @@
 # dinovue3
 
+Deployed url:
+https://dinovue3.firebaseapp.com/
+
 > A Vue.js project
 
 ## Build Setup
